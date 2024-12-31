@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Gauri Ayalane from India.<br><br>- 🔭 I’m currently working on Frontend Development Projects<br>- 📚 I'm currently learning advanced JavaScript, React, and Node.js<br>- ⚡ In my free time, I enjoy solving coding challenges and exploring new tech</p>
+<p align="left">I'm Gauri Ayalane.<br><br>- 🔭 I’m currently working on Frontend Development Projects<br>- 📚 I'm currently learning advanced JavaScript, React, and Node.js<br>- ⚡ In my free time, I enjoy solving coding challenges and exploring new tech</p>
 
 ###
 
